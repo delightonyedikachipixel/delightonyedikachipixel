@@ -1,16 +1,17 @@
-## Hi there 👋
+banner
+Hi there 👋, I'm Delight
 
-<!--
-**delightonyedikachipixel/delightonyedikachipixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Typing SVG
 
-Here are some ideas to get you started:
+🚀 Aspiring Backend Engineer | Full-Stack Developer | Java & Go Enthusiast | React + JavaScript or TypeScript Frontend Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I build scalable backend systems, APIs, and modern web applications
+🌍 Based in Nigeria
+🎯 Focused on backend engineering, system design, and cloud-ready applications
+🧠 About Me
+
+    🔭 I’m currently working on full-stack and backend projects
+    🌱 Learning distributed systems, Kafka, and cloud architecture
+    👯 I’m open to collaborating on impactful open-source projects and opprtunities
+    ⚙️ I love building clean APIs and scalable backend systems
+    📚 Always learning and improving my engineering skills
