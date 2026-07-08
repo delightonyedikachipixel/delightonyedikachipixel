@@ -1,7 +1,5 @@
-banner
 Hi there 👋, I'm Delight
 
-Typing SVG
 
 🚀 Aspiring Backend Engineer | Full-Stack Developer | Java & Go Enthusiast | React + JavaScript or TypeScript Frontend Web Development
 
